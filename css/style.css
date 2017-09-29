@@ -334,7 +334,7 @@ h6 {
     width: 100%;
     right: inherit !important;
     left: inherit !important;
-    top: 7.5em;
+    top: 6em;
   }
   .nav .navright ul {
     width: 100%;
@@ -817,6 +817,10 @@ h6 {
 .entittle h2{
   font-family: 'Cookie', cursive;
   font-size: 5rem;
+}
+.entittle h3{
+  font-family: 'Cookie', cursive;
+  font-size: 2.8rem;
 }
 
 .heading p {
